@@ -16,7 +16,7 @@ Just like humans learn through experience, ML systems learn from data.
 
 | Type               | Description                                  | Input Data       | Example Use Case                      | Example Algorithms                  |
 |--------------------|----------------------------------------------|------------------|----------------------------------------|-------------------------------------|
-| **Supervised**     | Learns from labeled data (input + output)    | Labeled          | Email classification, loan prediction | Linear Regression, Decision Trees   |
+| **Supervised**     | Learns from labeled data (input + output)    | Labeled          | Email classification, loan prediction | Linear Regression, Classification, Decision Trees   |
 | **Unsupervised**   | Finds hidden patterns in unlabeled data      | Unlabeled        | Customer segmentation, anomaly detection | K-Means, PCA, Clustering          |
 
 ---
